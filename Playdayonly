@@ -1,1 +1,25 @@
+#EXTM3U
+#EXTINF:-1, 3
+http://31.172.87.20:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1, RKTV CRIC 
+http://176.65.136.240/F012754CD30A309/URnIiV0BmO/34492?token=QhUMWBEORgoaBAcGBFcBBFhfB1dRAFdeUwlQV1ZbXVtYVAcMAF9dBF0QGRdFERAAAFRuXwcUD1UBBF9THkBMEFxFO1AGRF4SCgUADA9SUEdNG0VfDlMXXAQGUFQGWg5VAANIGxIPABICEAMDAlJRUUMVE1MbQlAUW1EKPlYHTwpaUkYDDBMIXBQQWltpAQcIAFdVFFkUBUQZEg8SQkADDUxbCBVABA1ESlNBUBRfQFdYDQgUTxRWCUBeEhNLQANBbGRGFUADHERdXEZcWQtAX0NNQhRPFFwVakIDEkYQXAJUUhYbWERUEhQQWFROOgEKD1dUVRdfWghGElxDA0AVQVRYClAWCRZvSFtRFwxHUVVZCxNL
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d86185f50f5952589c280167ee8e45c5&key=6bff81346539e4bcc9abdb351f1c855e
+#EXTINF:-1 tvg-id="Sports18" ch-number="999"  tvg-logo="https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/circular-badminton-1x1-13-apr-(1)-1650474771789.jpg" group-title="Sports",Sports18 1
+https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5380f73f51a55c52ab825b5b3cc82af9&key=2608c45e67ed5fe55610c0af5bfb357d
+#EXTINF:-1 tvg-id="CC" ch-number="999"  tvg-logo="https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/cc-1640680541650.png" group-title="Entertainment",Comedy Central HD
+https://jiolivestreaming.akamaized.net/bpk-tv/Comedy_Central_HD_voot_MOB/output/index.mpd
+
+#EXTINF:-1 tvg-id="amcplus" ch-number="999"  tvg-logo="https://dimages.cds.amcn.com/216x121/filters:quality(90):format(jpg)/images.cds.amcn.com/amcn/amcplus/amcplus-card--live.jpg" group-title="Entertainment",AMC+
+https://bcovlive-a.akamaihd.net/7410ac30ed824e7db363a25748632ddc/us-east-1/6245817279001/playlist.m3u8?bcov_auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9
+
+#EXTINF:-1 tvg-id="amc" ch-number="999"  tvg-logo="https://dimages.cds.amcn.com/216x121/filters:quality(90):format(jpg)/images.cds.amcn.com/amcn-qa/amc-card--live.jpg" group-title="Entertainment",AMC
+https://bcovlive-a.akamaihd.net/a82867acf11744a8a4331652298d2caa/us-east-1/6245817279001/playlist.m3u8?bcov_auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9
 
