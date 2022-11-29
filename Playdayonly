@@ -5,5 +5,5 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a6:55:53&stream=946248&extensi
 #EXTINF:-1, channel 2
 http://tvplug.xyz:8880/play/live.php?mac=00:1a:79:40:46:80&stream=623906&extension=ts
 
-#EXTINF:-1, V
-http://tv.greatstar.me/play/live.php?mac=00:1a:79:a6:55:53&stream=946304&extension=ts
+#EXTINF:-1, Fifa
+http://prelive.club/play/live.php?mac=00:1a:79:62:99:72&stream=179589&extension=ts&play_token=HqVZySqa0w
