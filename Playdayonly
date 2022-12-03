@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, channel 1
-http://tv.greatstar.me/play/live.php?mac=00:1a:79:a6:55:53&stream=946248&extension=ts
 
 #EXTINF:-1, fifa .
 http://prelive.club/play/live.php?mac=00:1a:79:62:99:72&stream=291830&extension=ts&play_token=wchlfPe7tI
