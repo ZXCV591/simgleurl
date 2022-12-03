@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, fifa .
-http://prelive.club/play/live.php?mac=00:1a:79:62:99:72&stream=291830&extension=ts&play_token=wchlfPe7tI
+#EXTINF:-1, FIFA
 
-#EXTINF:-1, Fifa
-http://prelive.club/play/live.php?mac=00:1a:79:62:99:72&stream=179589&extension=ts&play_token=HqVZySqa0w
-
-#EXTINF:-1, FOUR KE
-http://max.bhsplay.cf:8080/Yusuf41/Tc2TydjMYv/35650
+http://max.bhsplay.cf:8080/Yusuf41/Tc2TydjMYv/129138
